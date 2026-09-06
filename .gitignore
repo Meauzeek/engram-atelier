@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+node_modules/
+# User font files should stay on the user's device; never upload them implicitly.
+*.woff
+*.woff2
+*.ttf
+*.otf
+*.ttc
+# Put private exported projects outside the public repository.
+private/
+backups/

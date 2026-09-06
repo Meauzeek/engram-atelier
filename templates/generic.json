@@ -1,0 +1,121 @@
+{
+  "schema": "engram-cyoa",
+  "version": 1,
+  "id": "generic-blank-v4",
+  "meta": {
+    "title": "未命名世界",
+    "subtitle": "CHOOSE YOUR OWN ADVENTURE",
+    "kicker": "CYOA / YOUR WORLD",
+    "edition": "0.5",
+    "author": "",
+    "intro": "",
+    "rules": "",
+    "footer": "",
+    "notes": "",
+    "tokenName": "代币（待命名）",
+    "tokenSymbol": "",
+    "initial": 0,
+    "brand": "none",
+    "logo": {
+      "light": {
+        "src": "",
+        "name": "",
+        "alt": "",
+        "caption": "",
+        "credit": "",
+        "ratio": "1/1",
+        "fit": "cover",
+        "x": 50,
+        "y": 50,
+        "show": true
+      },
+      "dark": {
+        "src": "",
+        "name": "",
+        "alt": "",
+        "caption": "",
+        "credit": "",
+        "ratio": "1/1",
+        "fit": "cover",
+        "x": 50,
+        "y": 50,
+        "show": true
+      },
+      "align": "left",
+      "width": 430,
+      "showSubtitle": true
+    },
+    "labels": {
+      "initial": "INITIAL CONDITIONS",
+      "image": "IMAGE / RESERVED",
+      "end": "END OF RECORD",
+      "record": "RECORD / 001",
+      "decor": "✧",
+      "single": "单选",
+      "multi": "多选",
+      "display": "展示",
+      "attribute": "每行单选",
+      "text": "自由文本"
+    },
+    "created": "2026-09-05T21:10:36.424Z",
+    "modified": "2026-09-05T21:45:35.775Z",
+    "image": {
+      "src": "",
+      "name": "",
+      "alt": "",
+      "caption": "",
+      "credit": "",
+      "ratio": "16/9",
+      "fit": "cover",
+      "x": 50,
+      "y": 50,
+      "show": false
+    }
+  },
+  "theme": {
+    "mode": "light",
+    "accent": "#8267A6",
+    "gold": "#5D789D",
+    "positive": "#527E6F",
+    "negative": "#CA8790",
+    "background": "#F1F0ED",
+    "surface": "#FAF9F6",
+    "text": "#25272B",
+    "muted": "#63666C",
+    "font": "rajdhani",
+    "bodySize": 20,
+    "cardTitleSize": 28,
+    "moduleTitleSize": 36,
+    "wear": 0,
+    "titleSize": 64,
+    "width": 1440,
+    "gap": 24,
+    "radius": 2,
+    "grid": true,
+    "placeholders": true,
+    "showStatus": false,
+    "showRules": true,
+    "showDecor": true,
+    "showFooter": true
+  },
+  "output": {
+    "moduleNumbers": false,
+    "moduleTitles": true,
+    "moduleSubtitles": true,
+    "selectionHints": true,
+    "cardNumbers": false,
+    "attributeTitles": true,
+    "pageLabels": true
+  },
+  "settings": {
+    "enforceBudget": false,
+    "showLocked": false
+  },
+  "modules": [],
+  "play": {
+    "selected": [],
+    "answers": {},
+    "name": "",
+    "note": ""
+  }
+}
